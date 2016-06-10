@@ -1,5 +1,5 @@
 [{
     "packageFamilyName" : "LaunchUriTargetMultiApp_8wekyb3d8bbwe",
-    "paths" : ["/$(%$(**&%$(*&%(*&(%&*$(%Allowed1/", "/Allow\...\..\.edAll/*", "/Allowed1/exclu%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ded1/Allowed11/", "/Exclud^%$#@!~)(&()*&_(_)*ed1/Allowed1/"],
-    "excludePaths" : ["/Allowed1/excluded1/", "/Excluded1/"]
+    "paths" : ["*"],
+    "exdddddcludePaths" : ["/Allowed1/excluded1/", "/Excluded1/"]
 }]
