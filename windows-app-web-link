@@ -1,10 +1,32 @@
-[{
-    "packageFamilyName" : "LaunchUriTargetMultiApp_8wekyb3d8bbwe",
-    "excludePaths" : ["/Allowed1/excluded1/*", "/Excluded1/*"],
-    "paths" : ["/Allowed1", "/AllowedAll/*", "/Allowed1/excluded1/Allowed11/*", "/Excluded1/Allowed1/*", "/openwith"]
-},
-{
-    "packageFamilyName" : "MumaTarget_8wekyb3d8bbwe",
-    "paths" : ["/muma", "/muma/*","/Allowed1/excluded1/*", "/Excluded1/*", "/openwith"]
-    "excludePaths" :  ["/Allowed1", "/AllowedAll/*", "/Allowed1/excluded1/Allowed11/*", "/Excluded1/Allowed1/*"]
-}]
+[
+    {
+        "packageFamilyName": "LaunchUriTargetMultiApp_8wekyb3d8bbwe",
+        "excludePaths": [
+            "/Allowed1/excluded1/*",
+            "/Excluded1/*"
+        ],
+        "paths": [
+            "/Allowed1",
+            "/AllowedAll/*",
+            "/Allowed1/excluded1/Allowed11/*",
+            "/Excluded1/Allowed1/*",
+            "/openwith"
+        ]
+    },
+    {
+        "packageFamilyName": "MumaTarget_8wekyb3d8bbwe",
+        "paths": [
+            "/muma",
+            "/muma/*",
+            "/Allowed1/excluded1/*",
+            "/Excluded1/*",
+            "/openwith"
+        ],
+        "excludePaths": [
+            "/Allowed1",
+            "/AllowedAll/*",
+            "/Allowed1/excluded1/Allowed11/*",
+            "/Excluded1/Allowed1/*"
+        ]
+    }
+]
